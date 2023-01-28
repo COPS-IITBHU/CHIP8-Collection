@@ -26,5 +26,5 @@ Your name could be your github username/ alias / your real name.
 
 ### Resources to Get Started
 
-[Creating your own Chip 8 Emulator in JS](https://www.freecodecamp.org/news/creating-your-very-own-chip-8-emulator/)
+[Creating your own Chip 8 Emulator in JS](https://www.freecodecamp.org/news/creating-your-very-own-chip-8-emulator/)  
 [Broad Overview on CHIP 8 Emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
