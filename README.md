@@ -28,3 +28,10 @@ Your name could be your github username/ alias / your real name.
 
 [Creating your own Chip 8 Emulator in JS](https://www.freecodecamp.org/news/creating-your-very-own-chip-8-emulator/)  
 [Broad Overview on CHIP 8 Emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
+
+#### Adding Your Own
+
+Alternatively, you can write your own understanding in a blog and publish it. Like
+
+[Guide To Writing Your First Emulator | CHIP - 8 | Part One](https://literaleval.hashnode.dev/guide-to-writing-your-first-emulator-or-chip-8)
+[Guide To Writing Your First Emulator | CHIP - 8 | Part Two](https://literaleval.hashnode.dev/guide-to-writing-your-first-emulator-chip-8)
