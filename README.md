@@ -33,5 +33,5 @@ Your name could be your github username/ alias / your real name.
 
 Alternatively, you can write your own understanding in a blog and publish it. Like
 
-[Guide To Writing Your First Emulator | CHIP - 8 | Part One](https://literaleval.hashnode.dev/guide-to-writing-your-first-emulator-or-chip-8)
+[Guide To Writing Your First Emulator | CHIP - 8 | Part One](https://literaleval.hashnode.dev/guide-to-writing-your-first-emulator-or-chip-8) <br></br>
 [Guide To Writing Your First Emulator | CHIP - 8 | Part Two](https://literaleval.hashnode.dev/guide-to-writing-your-first-emulator-chip-8)
