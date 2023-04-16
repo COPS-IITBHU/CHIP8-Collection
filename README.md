@@ -10,17 +10,18 @@ This repo is a collection of multiple implementations of the CHIP 8 Emulator in 
 The top level folders are the names of various programming languages. In each directory there are further directories which is the name of the author or the name they gave to their implementation and finally inside that directory contains their implementation of a CHIP 8 Emulator in that programming language.
 
 ```
-+- C++ -+
-|	  	+- your_repo -+
-|	  				+- files
-|	  				+- README.md containting information
-|	  				   about your code and you.
-+- Rust -+
-|	  	 +- your_repo -+
-|	  				   +- files
-|	  				   +- README.md containting information
-|	  				      about your code and you.
-+-
+├── C++
+│   ├── your_repo
+│   │   ├── files
+|   |   ├── README.md containting information about
+|   |       you and your code
+├── Rust
+│   ├── your_repo
+│   │   ├── files
+|   |   ├── README.md containting information about
+|   |       you and your code
+├── ...
+└── ...
 ```
 
 Your name could be your GitHub Username/ alias / your real name.
