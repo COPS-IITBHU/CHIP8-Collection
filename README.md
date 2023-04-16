@@ -3,26 +3,29 @@
 This repo is a collection of multiple implementations of the CHIP 8 Emulator in various programming languages, this serves as a beginner level task to get into system programming.
 
 
+
+
 ### Directory Structure
 
-The top level folders are the names of various programming languages. In each directory there are further directories which is the name of the author of that implementation and finally inside that directory contains their implementation of a CHIP 8 Emulator in that programming language.
+The top level folders are the names of various programming languages. In each directory there are further directories which is the name of the author or the name they gave to their implementation and finally inside that directory contains their implementation of a CHIP 8 Emulator in that programming language.
 
 ```
-/
-    c/
-        cops-member-1/
-            chip8.c
-            Makefile
-        cope-member-2/
-            chip8.c
-            Makefile
-    js/
-        cops-member-3/
-            index.js
-            package.json
++- C++ -+
+|	  	+- your_repo -+
+|	  				+- files
+|	  				+- README.md containting information
+|	  				   about your code and you.
++- Rust -+
+|	  	 +- your_repo -+
+|	  				   +- files
+|	  				   +- README.md containting information
+|	  				      about your code and you.
++-
 ```
 
-Your name could be your github username/ alias / your real name.
+Your name could be your GitHub Username/ alias / your real name.
+
+
 
 ### Resources to Get Started
 
